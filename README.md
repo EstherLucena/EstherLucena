@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📍 De Santa Catarina, Brasil<br>📚 Estudante de Entra21 <br>💻</p>
+<p align="left">📍 De Santa Catarina, Brasil<br>📚 Estudante de Entra21</p>
 
 ###
 
