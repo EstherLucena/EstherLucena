@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨Bem vindo(a) ao meu Github profile. Meu nome é Esther, tenho 22 anos.</p>
+<p align="left">✨Bem vindo(a) ao meu Github profile.</p>
 
 ###
 
