@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Estudando...</h2>
+<h2 align="left">Todo dia é dia de aprender.</h2>
 
 ###
 
